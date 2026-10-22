@@ -34,3 +34,9 @@ Built on top of the rock-solid **Ubuntu LTS Server** base, BergOS Server strips 
 - **RAM:** 1 GB minimum (2 GB recommended for container hosting)
 - **Storage:** 10 GB available disk space
 - **Network:** Ethernet or Wi-Fi network interface
+
+---
+
+## Project Roadmap
+
+BergOS is developed incrementally across four distinct editions. To see upcoming features, release milestones, and the long-term vision for the project, check out the [Official BergOS Roadmap](https://github.com/astulfonimatteo-hue/Berg_Linux/blob/main/ROADMAP.md).
