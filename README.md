@@ -1,5 +1,9 @@
 # BergOS Server Edition
 
+<img width="1179" height="1153" alt="IMG_1870" src="https://github.com/user-attachments/assets/91fa8e52-3daa-4821-b3ae-b502f11fdb99" />
+
+_The main repository of the project is at this [link](https://github.com/astulfonimatteo-hue/Berg_Linux)_
+
 **BergOS Server** is a minimal, lightweight, headless operating system designed for home labs, self-hosted applications, cloud instances, and virtualization hosts.
 
 Built on top of the rock-solid **Ubuntu LTS Server** base, BergOS Server strips away unnecessary graphical interface components to maximize resource availability, system security, and uptime.
