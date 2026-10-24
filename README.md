@@ -6,7 +6,7 @@ _The main repository of the project is at this [link](https://github.com/astulfo
 
 **BergOS Server** is a minimal, lightweight, headless operating system designed for home labs, self-hosted applications, cloud instances, and virtualization hosts.
 
-Built on top of the rock-solid **Ubuntu LTS Server** base, BergOS Server strips away unnecessary graphical interface components to maximize resource availability, system security, and uptime.
+Built on top of the rock-solid **Debian** base, BergOS Server strips away unnecessary graphical interface components to maximize resource availability, system security, and uptime.
 
 ---
 
@@ -23,7 +23,7 @@ Built on top of the rock-solid **Ubuntu LTS Server** base, BergOS Server strips 
 ## Technical Specifications
 
 - **Architecture:** 64-bit (`x86_64`)
-- **Base System:** Ubuntu LTS Server
+- **Base System:** Debian 13
 - **Interface:** Command Line Interface (CLI) / Headless
 - **Installer:** Subiquity / Calamares (Server Mode)
 - **Networking:** NetworkManager / netplan
